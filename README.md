@@ -1,0 +1,2 @@
+# lexxbot
+Public Discord Bot
