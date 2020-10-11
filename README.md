@@ -9,4 +9,5 @@ A **simple music module** for listening to music while talking to your friends. 
 ## Rules
 Set up a rules message that your members have to accept by adding a reaction. LeXx automatically manages this and gives the selected role.
 
+---
 LeXx is **still in development!** There are always **new features** waiting for you!
